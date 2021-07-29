@@ -1,5 +1,10 @@
-### Hi there 👋
+# VoR of Sketchpunk Labs.
 
+### Linkages
+- [Twitter](https://twitter.com/SketchpunkLabs)
+- [Youtube](https://www.youtube.com/c/sketchpunklabs)
+- [Patreon](https://www.patreon.com/sketchpunk)
+          
 <!--
 **sketchpunk/sketchpunk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
