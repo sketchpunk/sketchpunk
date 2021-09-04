@@ -7,6 +7,7 @@
 - [Prop Panel](https://github.com/sketchpunk/proppanel) : Collection of UI Web Components I created for use in my 3D Prototyping
 - [FunWithWebGL2](https://github.com/sketchpunk/FunWithWebGL2) : Source for all my Youtube Tutorials related to building a game engine using WebGL.
 - [Fungi](https://github.com/sketchpunk/Fungi) : 3D Game engine built with WebGL & JavaScript, also includes IK Rigs Animation System
+- [Ecs](https://github.com/sketchpunk/ecs) : Entity-Component-System framework being created to run the next version of Fungi.
 
 ### Projects in Hiatus : 
 - [Fungi RS](https://github.com/sketchpunk/fungi_rs) : A version of Fungi built with Rust, WebGL and WebAssembly.
