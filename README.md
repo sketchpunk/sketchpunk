@@ -1,13 +1,16 @@
 # Sketchpunk Labs
-
-### The Social : [Twitter](https://twitter.com/SketchpunkLabs), [Youtube](https://www.youtube.com/c/sketchpunklabs), [Patreon](https://www.patreon.com/sketchpunk)
+[![twitter](https://img.shields.io/badge/Twitter-profile-blue?style=flat-square&logo=twitter)](https://twitter.com/SketchpunkLabs)
+[![youtube](https://img.shields.io/badge/Youtube-subscribe-red?style=flat-square&logo=youtube)](https://youtube.com/c/sketchpunklabs)
+[![Ko-Fi](https://img.shields.io/badge/Ko_Fi-donate-orange?style=flat-square&logo=youtube)](https://ko-fi.com/sketchpunk)
+[![Patreon](https://img.shields.io/badge/Patreon-donate-red?style=flat-square&logo=youtube)](https://www.patreon.com/sketchpunk)
 
 ### Active Projects : 
-- [Oito](https://github.com/sketchpunk/oito) : TypeScript Math Library geared toward what I need for 3D Prototyping.
-- [Prop Panel](https://github.com/sketchpunk/proppanel) : Collection of UI Web Components I created for use in my 3D Prototyping
+- [Ossos](https://github.com/sketchpunklabs/ossos) : New collaborative version of IK Rigs that is engine independent.
+- [Oito](https://github.com/sketchpunk/oito) : TypeScript Math Library geared toward 3D Prototyping.
 - [FunWithWebGL2](https://github.com/sketchpunk/FunWithWebGL2) : Source for all my Youtube Tutorials related to building a game engine using WebGL.
 - [Fungi](https://github.com/sketchpunk/Fungi) : 3D Game engine built with WebGL & JavaScript, also includes IK Rigs Animation System
 - [Ecs](https://github.com/sketchpunk/ecs) : Entity-Component-System framework being created to run the next version of Fungi.
+- [Prop Panel](https://github.com/sketchpunk/proppanel) : Collection of UI Web Components I created for use in my 3D Prototyping
 
 ### Projects in Hiatus : 
 - [Fungi RS](https://github.com/sketchpunk/fungi_rs) : A version of Fungi built with Rust, WebGL and WebAssembly.
