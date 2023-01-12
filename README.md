@@ -7,7 +7,7 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=sketchpunklabs)
 
 ### Bio : 
-A solo player born with the name Pedro but known to most of the world as VoR, short for Virual OverRide. You can describe me as :
+A solo player born with the name Pedro but known to most of the world as VoR. You can describe me as :
 - ✨ IK Necromancer
 - 🎨 Wannabe 3D Modeler
 - 🔥 Javascript Developer
