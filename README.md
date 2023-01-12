@@ -1,9 +1,10 @@
 # Sketchpunk Labs
+[![npm](https://img.shields.io/badge/Sponsor-donate-blue?style=flat-square&logo=github)](https://github.com/sponsors/sketchpunklabs)
+[![twitter](https://img.shields.io/badge/Mastodon-profile-blue?style=flat-square&logo=mastodon)](https://mastodon.gamedev.place/@sketchpunk)
 [![twitter](https://img.shields.io/badge/Twitter-profile-blue?style=flat-square&logo=twitter)](https://twitter.com/SketchpunkLabs)
-[![mastodon](https://img.shields.io/badge/Mastodon-profile-blue?style=flat-square&logo=mastodon)](https://mastodon.gamedev.place/@sketchpunk)
 [![youtube](https://img.shields.io/badge/Youtube-subscribe-red?style=flat-square&logo=youtube)](https://youtube.com/c/sketchpunklabs)
-[![Ko-Fi](https://img.shields.io/badge/Ko_Fi-donate-orange?style=flat-square&logo=youtube)](https://ko-fi.com/sketchpunk)
 [![Patreon](https://img.shields.io/badge/Patreon-donate-red?style=flat-square&logo=youtube)](https://www.patreon.com/sketchpunk)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=sketchpunklabs)
 
 ### Bio : 
 A solo player born with the name Pedro but known to most of the world as VoR, short for Virual OverRide. You can describe me as :
